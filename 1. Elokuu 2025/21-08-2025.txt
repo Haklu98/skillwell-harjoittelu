@@ -1,0 +1,2 @@
+Bedrock generaation formatointia Supply Chainia varten ja itse SC:n toimintojen
+tutkimista. Selvittämistä datan ingraatiosta ja s3-buckettien toiminnasta SC:n kanssa.

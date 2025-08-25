@@ -1,0 +1,4 @@
+Cloud Practitioner materiaalin lukemista ja harjoittelua.
+CDK:n koodaamista ja Supply Chainin optimointia.
+Vertaiskoodaamista Elielin kanssa ja tutustumista
+CDK-käytäntöihin.

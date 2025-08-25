@@ -1,0 +1,4 @@
+Supply Chainin datataulujen tutkiminen ja generoidun datan
+yhteensopivuuden selvittäminen. SC tunnistaa s3-buckettiin generoidut tiedostot,
+mutta ei kykene hyödyntämään niitä. Syynä sarakkeet, joita ei ole
+ennalta määritelty. Selvitetään.
