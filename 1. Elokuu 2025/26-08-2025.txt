@@ -1,0 +1,5 @@
+Tutkittiin asiakaslähtöisesti Juhon ja Katjan kanssa Amazon Connectia
+ja se tekoälymahdollisuuksia. Keräämme dataa, jotta voimme esittää
+jotain perjantaina Jarille ja Harrille.
+Samalla jatkoin Supply Chainin datageneraattorin kehittämistä, jossa
+pääsin hyvin eteenpäin.

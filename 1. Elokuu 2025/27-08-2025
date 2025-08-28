@@ -1,0 +1,7 @@
+Amazon Connectin infon kerääminen alkaa olla paketissa. Pidimme palaverin,
+jossa kävimme läpi, mitä kaikki olivat oppineet ja löytäneet ja aloimme
+viimeistellä esitystä.
+Supply Chain generaattorissa korjasin generoitavat sarakkeet, sillä
+otsikoiden täytyy olla täydellisesti samat, mitä SC itse vaatii.
+Muuten se ei osaa tehdä ingraatiota. Generaattori toimii ja SC
+saa datan.
